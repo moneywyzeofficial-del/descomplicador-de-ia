@@ -27,3 +27,8 @@ dist-ssr
 .env
 .env.local
 .env.*.local
+
+# Test scripts and test screenshots
+test-browser.js
+browser-test-screenshot.png
+*.png
